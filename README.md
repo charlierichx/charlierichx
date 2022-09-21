@@ -1,6 +1,15 @@
 - Hi, I’m @charlierichx
 - I’m interested in software development. 
 - I’m currently a computer programming student.
+- Some of the modules i’m doing this year are:
+    • GUI
+    • Maths for IT
+    • Java
+    • C++
+    • Web Authoring
+    • Relational Database 
+    • Communications
+    • Work Experience 
 
 
 <!---
