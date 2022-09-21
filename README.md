@@ -1,6 +1,6 @@
 - Hi, I’m @charlierichx
 - I’m interested in software development. 
-- I’m currently a computer programming student.
+- I’m currently a completing a level 6 in computer programming.
 - Some of the modules i’m doing this year are:
     • GUI
     • Maths for IT
